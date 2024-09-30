@@ -6,3 +6,4 @@
 4. How to find fibonacci sequence?
 5. How to find Factorial(n!) of a given number?
 6. How to find intersection of two arrays/sets?
+7. How to find Max and Min value in a given Array?
