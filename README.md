@@ -11,3 +11,4 @@
 9. How to find palindrome?
 10. How to make calculator?
 11. How to find number of occurences of a character in a string?
+12. How to compare two arrays are equal or not?
