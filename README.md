@@ -12,3 +12,4 @@
 10. How to make calculator?
 11. How to find number of occurences of a character in a string?
 12. How to compare two arrays are equal or not?
+13. How to convert celsius to fahrenheit or fahrenheit to celsius?
