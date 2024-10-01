@@ -10,3 +10,4 @@
 8. How to find the missing number in a given integer array of 1 to 10?
 9. How to find palindrome?
 10. How to make calculator?
+11. How to find number of occurences of a character in a string?
