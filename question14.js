@@ -10,4 +10,15 @@ function stringUpperCase(value) {
     .join(" ");
 }
 
+function stringUpperCaseN(value) {
+  const string = value.toString().split(" ");
+  let result = "";
+
+  for (let i = 0; i < string.length; i++) {
+    result += string[i].charAt(0) + string[i].slice(1) + " ";
+  }
+  return result;
+}
+
 console.log(stringUpperCase("Hello World"));
+console.log(stringUpperCaseN("Hello World"));
