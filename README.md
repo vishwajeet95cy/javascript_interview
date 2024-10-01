@@ -13,3 +13,4 @@
 11. How to find number of occurences of a character in a string?
 12. How to compare two arrays are equal or not?
 13. How to convert celsius to fahrenheit or fahrenheit to celsius?
+14. How to convert first letter of a string to uppercase?
