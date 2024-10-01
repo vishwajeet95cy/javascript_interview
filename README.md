@@ -14,3 +14,4 @@
 12. How to compare two arrays are equal or not?
 13. How to convert celsius to fahrenheit or fahrenheit to celsius?
 14. How to convert first letter of a string to uppercase?
+15. How to find prime number?
